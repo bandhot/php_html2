@@ -20,7 +20,8 @@
                        <img src="asset/image/boon.jpg" class="card-img-top img-thumbnail" alt="...">
                            <div class="card-body">
                               <h5 class="card-title"><?php echo $value[0];?></h5>
-                              <p class="card-text"><?php echo $value[0];?></p>
+                              <p class="card-text"><?php echo $value[1];?></p>
+                              <p class="card-text"><?php echo $value[2];?></p>
                               <a href="#" class="btn btn-primary">Go somewhere</a>
                            </div>
                  </div>
