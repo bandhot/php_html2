@@ -32,5 +32,8 @@ $data_siswa=[
     //         echo "$value[0]\t belum lulus\n";
     //     }
     // }
-    // ?>
+
+    $data_slider=["asset/image/slider/slider1.jpg","asset/image/slider/slider2.jpg","asset/image/slider/slider3.jpg"];
+     ?>
+    
     
